@@ -10,4 +10,4 @@ Clone or copy this folder into `ComfyUI/custom_nodes` (this package is named `re
 
 ![Resolution Selector (Live) showing 1024 × 768 at 0.75 MP](docs/resolution-selector-live.png)
 
-License: MIT (Copyright (c) 2026 Jason Demon).
+License: MIT (Copyright (c) 2026 NikoDemon80).
